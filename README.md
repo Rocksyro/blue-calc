@@ -1,0 +1,25 @@
+
+# Blue-calc
+
+Una aplicación creada para facilitar el cálculo de hidratos de carbono e insulina necesaria para cada comida. Además de una lista personalizada de productos con su cantidad aproximada de HdC, con la posibilidad de agregar productos de uso frecuente.
+
+## Referencia de colores
+
+La identidad visual de *Blue-calc* está pensada para generar confianza, tranquilidad y accesibilidad. El azul hace referencia al símbolo internacional de la diabetes, mientras que los colores secundarios refuerzan la claridad y facilidad de uso de la aplicación.
+
+| Color Name    | Hex Code | Preview |
+|---------------|----------|---------|
+| Primary Blue | `#003092`| ![#003092](https://singlecolorimage.com/get/003092/100x50) |
+| Accent Green | `#00b48a`| ![#00b48a](https://singlecolorimage.com/get/00879e/100x50) |
+| Accent Orange | `#FFAB5B`| ![#FFAB5B](https://singlecolorimage.com/get/ffab5b/100x50) |
+| Background Cream | `#FFF2DB`| ![#FFF2DB](https://singlecolorimage.com/get/fff2db/100x50) |
+
+## Funcionalidades
+- Cálculo automático de HdC e insulina por comida.
+- Base de datos de alimentos con valores predefinidos.
+- CRUD para que el usuario agregue, edite o elimine alimentos personalizados.
+- Diseño accesible y enfocado en la experiencia del usuario.
+## Autores
+
+- [@rocksyro](https://www.github.com/rocksyro)
+
