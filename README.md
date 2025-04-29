@@ -33,6 +33,8 @@ La identidad visual de *Blue-calc* está pensada para generar confianza, tranqui
 
 Para mantener una estética clara y moderna, se utiliza la fuente [Inter](https://fonts.google.com/specimen/Inter), diseñada especialmente para interfaces digitales.
 
+## Diseño
+- [Figma](https://www.figma.com/design/ZMy3al0Ux1dvghHPPvCBPz/Blue-calc?node-id=0-1&t=kWHXsE8L6D2mZ8Mp-1)
 
 ## Referencias
 
